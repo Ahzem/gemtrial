@@ -7,6 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma%203%201B-black?style=flat)](https://ollama.com/library/gemma3)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=flat&logo=youtube)](https://youtu.be/Guhca29LI18)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
