@@ -1,0 +1,17 @@
+{
+  "name": "GemTrail - AI Outdoor Field Companion",
+  "short_name": "GemTrail",
+  "description": "The AI that tells you to put your phone away. Observe rocks, minerals, and outdoor nature with Gemma 3 1B.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d0b",
+  "theme_color": "#080d0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
